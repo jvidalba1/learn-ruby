@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72bc367f-5441-42e1-bfa2-7fb76470fdc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana 3/Problema 2/jvidalba_sln.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana 3/Problema 3/jvidalba_sln.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana 4/Problema 1/jvidalba_sln.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learn-ruby.iws" />
@@ -26,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="palindromo.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Semana 3/Problema 3/palindromo.rb">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Semana 4/Problema 1/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="173" selection-end="173" vertical-scroll-proportion="0.28183717">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jvidalba_sln.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Semana 4/Problema 1/jvidalba_sln.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="33" selection-start="338" selection-end="338" vertical-scroll-proportion="0.19527897">
               <folding />
             </state>
           </provider>
@@ -62,14 +70,15 @@
         <option value="$PROJECT_DIR$/Semana 2/Problema 3/jvidalba_sln.rb" />
         <option value="$PROJECT_DIR$/Semana 3/Problema 2/jvidalba_sln.rb" />
         <option value="$PROJECT_DIR$/Semana 3/Problema 3/jvidalba_sln.rb" />
+        <option value="$PROJECT_DIR$/Semana 4/Problema 1/jvidalba_sln.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1215" />
-    <option name="height" value="776" />
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1217" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -97,6 +106,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,14 +134,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-ruby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-ruby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semana 4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-ruby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-ruby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semana 4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problema 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -205,7 +246,7 @@
     <configuration default="false" name="solucion" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/Semana 3/Problema 2" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/Semana 4/Problema 1" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -216,7 +257,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Semana 3/Problema 2/solucion.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Semana 4/Problema 1/solucion.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
@@ -225,7 +266,7 @@
     <configuration default="false" name="jvidalba_sln" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/Semana 3/Problema 3" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/Semana 4/Problema 1" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -236,9 +277,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Semana 3/Problema 3/jvidalba_sln.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Semana 4/Problema 1/jvidalba_sln.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
       <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
@@ -336,14 +379,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1215" height="776" extended-state="6" />
+    <frame x="64" y="-4" width="1217" height="805" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33648068" sideWeight="0.21810089" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33733904" sideWeight="0.7537092" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.344206" sideWeight="0.7537092" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33648068" sideWeight="0.3694362" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -413,110 +456,86 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Semana 3/Problema 1/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="97" selection-start="360" selection-end="434" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 3/Problema 1/solucion/calculate.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="28" selection-start="732" selection-end="732" vertical-scroll-proportion="0.023255814" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 3/Problema 1/jvidalba_sln/calculo.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="443" selection-end="443" vertical-scroll-proportion="0.4651163">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 3/Problema 1/jvidalba_sln/control.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="19" selection-start="303" selection-end="303" vertical-scroll-proportion="0.37209302">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 3/Problema 1/jvidalba_sln/validations.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="27" selection-start="264" selection-end="264" vertical-scroll-proportion="0.3255814">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 3/Problema 2/benitez.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 2/Problema 1/README.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 2/Problema 3/README.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Semana 2/Problema 2/README.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Semana 2/Problema 2/jvidalba_sln.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="295" selection-end="295" vertical-scroll-proportion="0.43841335">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana 2/Problema 3/jvidalba_sln.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="26" selection-start="344" selection-end="344" vertical-scroll-proportion="0.8141962">
-          <folding />
-        </state>
+        <state line="14" column="22" selection-start="295" selection-end="295" vertical-scroll-proportion="0.43841335" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Semana 3/Problema 2/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="16" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Semana 3/Problema 2/jvidalba_sln.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="452" selection-end="452" vertical-scroll-proportion="0.56367433">
-          <folding />
-        </state>
+        <state line="18" column="26" selection-start="452" selection-end="452" vertical-scroll-proportion="0.56367433" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Semana 3/Problema 2/solucion.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="284" selection-end="284" vertical-scroll-proportion="0.25052193">
-          <folding />
-        </state>
+        <state line="8" column="17" selection-start="284" selection-end="284" vertical-scroll-proportion="0.25052193" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Semana 3/Problema 3/jvidalba_sln.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="36" selection-start="207" selection-end="207" vertical-scroll-proportion="0.34446764">
-          <folding />
-        </state>
+        <state line="11" column="36" selection-start="207" selection-end="207" vertical-scroll-proportion="0.34446764" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Semana 3/Problema 3/palindromo.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="173" selection-end="173" vertical-scroll-proportion="0.28183717">
+        <state line="9" column="17" selection-start="173" selection-end="173" vertical-scroll-proportion="0.28183717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 2/Problema 3/jvidalba_sln.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="36" selection-start="316" selection-end="316" vertical-scroll-proportion="0.53488374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 3/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="61" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 2/sumaAleatorio.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 2/solucion.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="65" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 3/Solucion/operaciones.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="54" selection-start="195" selection-end="195" vertical-scroll-proportion="0.20930232" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 1/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 1/solucion.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="8" selection-start="98" selection-end="98" vertical-scroll-proportion="0.25052193">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana 4/Problema 1/jvidalba_sln.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="33" selection-start="338" selection-end="338" vertical-scroll-proportion="0.19527897">
           <folding />
         </state>
       </provider>
